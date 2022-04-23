@@ -5,6 +5,7 @@
 ##
 - 👨‍💻 I’m currently Improving my programming skills & currently learning DSA.
 - 👯 I’m looking to collaborate with me for some amazing projects.
+- 👨‍💻 Participated in The Great India Hackathon by ReSkill
 - 📫 Reach me through: [Linkedin](https://www.linkedin.com/in/abhishek-455992237)   [Instagram](https://www.instagram.com/i.abhishekmehta/)   [WebDev](https://weber4u.wixsite.com/halfcoder)
 - ✉️ Email: abhihek9728@gmail.com
 - 📝 Do checkout my work done on Github
