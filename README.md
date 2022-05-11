@@ -10,4 +10,4 @@
 - ✉️ Email: abhihek9728@gmail.com
 - 📝 Do checkout my work done on Github
 - 😄 Fun fact: I love spending time refreshing myself.
-- 🖥️ To look at some of my work do visit my personal [website](https://abhishek058.github.io/my_portfolio/).
+- 🖥️ To look at some of my work do visit my personal [website](https://abhishek058.github.io/My_Portfolio/).
